@@ -19,3 +19,14 @@
 
 ```bash
 python main.py
+## Model Weights
+
+The optimized deployment model for RDK X5 is provided as a compiled binary file due to its large size.
+
+You can download the model from the following link:
+
+- Model file: `new_model_x5.bin`  
+- Download link: https://pan.baidu.com/s/1FfU0HGq-XxnASzqQyjPtaA  
+- Extraction code: 8bsp
+
+This model is used for edge inference on the RDK X5 BPU and is compatible with the deployed inference pipeline in this repository.```
